@@ -4,7 +4,7 @@
 
 	<groupId>com.fm.mrpt</groupId>
 	<artifactId>mrpt</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<packaging>pom</packaging>
 
 	<name>mrpt</name>
@@ -16,7 +16,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:fabiomaffioletti/mrpt.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>mrpt-1.2</tag>
 	</scm>
 
 	<build>
